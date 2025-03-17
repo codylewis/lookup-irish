@@ -73,6 +73,7 @@ aside {
     padding-left: 2em;
     padding-right: 0.3em;
     text-indent: -1.3em;
+    color: black;
 }
 aside::before {
     content: '\261E';  /* the pointy grammar hand */
